@@ -9,9 +9,6 @@ This is a sample web application built with React and Material-UI for listing an
 - Sort products by price in ascending or descending order.
 - Paginate through the product list.
 
-## Deployed App
-View the deployed app [here](https://psr-devtown-assessment.netlify.app/).
-
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.
@@ -28,12 +25,12 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PavanaSakethaRam/DevTown-Assessment.git
+   git clone https://github.com/Abhisharmika/DevTown-Assessment.git
    ```
 2. Navigate to the project directory:
 
     ```bash
-    cd DevTown-Assessment
+    cd DevTown-Assessment/DevTown-Assessment
     ```
 
 3. Install the project dependencies:
